@@ -1,0 +1,20 @@
+{
+  "name": "element-validator",
+  "version": "1.0.0",
+  "description": "URL Element Validator tool to check presence of HTML elements",
+  "main": "url_validator.py",
+  "scripts": {
+    "start": "python url_validator.py",
+    "install-deps": "pip install -r requirements.txt"
+  },
+  "dependencies": {
+    "pandas": "^1.5.3",
+    "selenium": "^4.9.0",
+    "webdriver_manager": "^3.8.6"
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "python": ">=3.7"
+  }
+}

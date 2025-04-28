@@ -1,0 +1,23 @@
+{
+  "name": "e2e-testing-framework",
+  "version": "1.0.0",
+  "description": "An end-to-end testing framework for validating URLs and their elements using Google Sheets.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "ts-node tests/url-validation.test.ts",
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "googleapis": "^39.2.0",
+    "puppeteer": "^10.0.0",
+    "typescript": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "@types/jest": "^27.0.0",
+    "ts-jest": "^27.0.0",
+    "jest": "^27.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

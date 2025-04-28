@@ -1,0 +1,34 @@
+https://fc2.com/,option[value="ja/"]
+https://fc2.com/,option[value="th/"]
+https://fc2.com/,option[value="ko/"]
+https://fc2.com/,option[value="de/"]
+https://fc2.com/,option[value="es/"]
+https://fc2.com/,option[value="ru/"]
+https://fc2.com/,option[value="fr/"]
+https://fc2.com/,option[value="pt/"]
+https://www.ceicdata.com/en,option[value="LS"]
+https://www.epfindia.gov.in/site_en/index.php,#english_font
+https://www.fwd.co.th/en/,.MuiTypography-body6.jss95.displayLang
+https://www.fwd.co.th/en/,.MuiTypography-body1A.jss95.displayLang
+https://www.manoramaonline.com/,a[title="ENGLISH"]
+https://www.sportingnews.com/in/nba?gr=www,.text-de.h-38px[href="/jp"] > .gap-2.items-center.flex > .md\:leading-18px.md\:h-4.leading-22\.4px
+https://www.sportingnews.com/in/nba?gr=www,.text-de.h-38px[href="/mx"] > .gap-2.items-center.flex > .md\:leading-18px.md\:h-4.leading-22\.4px
+https://www.sportingnews.com/in/nba?gr=www,.text-de.h-38px[href="/es"] > .gap-2.items-center.flex > .md\:leading-18px.md\:h-4.leading-22\.4px
+https://www.sportingnews.com/in/nba?gr=www,.text-de.h-38px[href="/th"] > .gap-2.items-center.flex > .md\:leading-18px.md\:h-4.leading-22\.4px
+https://www.sunwaymedical.com/en/,.tslt > li:nth-child(2) > a
+https://www.turkiye.gov.tr/,a[href="/?lang=en_US"]
+https://www.usps.com/,a[href="javascript:OneLink('es');"]
+https://www.wordreference.com/,a[href$="es/"]
+https://www.wordreference.com/,.links > a[href$="fr/"]
+https://www.wordreference.com/,.links > a[href$="it/"]
+https://www.wordreference.com/,a[href$="pten/"]
+https://www.wordreference.com/,a[href$="definicio/"]
+https://www.wordreference.com/,.links > a[href$="de/"]
+https://www.wordreference.com/,a[href$="sven/"]
+https://www.wordreference.com/,a[href$="nlen/"]
+https://www.wordreference.com/,a[title="Русско-английский словарь"]
+https://www.wordreference.com/,a[title="Polish"]
+https://www.wordreference.com/,a[title="Romanian"]
+https://www.wordreference.com/,a[title="Czech"]
+https://www.wordreference.com/,a[title="Greek"]
+https://www.wordreference.com/,a[title="Turkish"]
